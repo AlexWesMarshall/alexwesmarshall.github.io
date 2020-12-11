@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#959adf'
+lowlight-color: '#2083c5'
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
