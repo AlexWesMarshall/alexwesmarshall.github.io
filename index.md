@@ -1,12 +1,13 @@
 ---
 layout: page
+theme:jekyll-theme-minimal
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a software developer. Hello World!
 
 ## Current Interests and Projects:
 
 - Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [GitHub Pages](http://alexwesmarshall.github.io)
+- Career
