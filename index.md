@@ -1,6 +1,6 @@
 ---
 layout: page
-theme:jekyll-theme-minimal
+theme: jekyll-theme-minimal
 excerpt: "About Me..."
 ---
 
