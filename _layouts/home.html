@@ -19,17 +19,13 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.github.url}}/archive/">About Me</a></h3>
-    {% for post in site.categories.blog limit:5 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-      {% else %}
-        <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+    <h1 class="page_title" itemprop="headline">About Me</h1>
+    <section class="page_content" itemprop="text">
+      <p>Here is where we can insert a small thing about yourself</p>
+      <p>Here is a second paragraph for saying extra stuff</p>
+      <h1 id="contact_me" class="contact_me">Contact Me</h1>
+      <p>This is where we can insert some contact information</p>
+    </section>
   </div><!-- /#index -->
 </div><!-- /#main -->
 
