@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Hello World Academic Website
+title: Academic Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Alexander Marshall
+  name: Kayla Owens
   #avatar: bio-photo.jpg
-  bio: "I'm cool ;)"
-  email: alex.wes.marshall@gmail.com
+  bio: "Best github website ever!"
+  email: 
   # Do not include the @ symbol in your Twitter username
-  twitter: realDonaldTrump
-  linkedin: AlexWesMarshall
-  github: AlexWesMarshall
+  twitter:
+  linkedin:
+  github:
   # orcid: # ID Number (ex. 0000-0000-0000-0000)
   # researchgate: #username
   # mendeley: #username

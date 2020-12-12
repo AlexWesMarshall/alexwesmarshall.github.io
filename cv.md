@@ -7,18 +7,9 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2016 - 2020`
+__Caltec__
 Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
 
 ## Publications
 
@@ -32,14 +23,6 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
 
 ## Presentations
 
@@ -50,18 +33,11 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Barrold Jr.__, UChicago 
 
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+- Write code
+- Crunch data
+- Be Awesome
 
 <!-- ### Footer
 

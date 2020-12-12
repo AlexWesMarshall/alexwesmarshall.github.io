@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Research
+excerpt: "Recent Research"
 ---
 
-# Workshops I've Put Together
+# Recent Research that I have been working on
 
 - [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)

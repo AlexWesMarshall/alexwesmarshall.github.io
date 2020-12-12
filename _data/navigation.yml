@@ -1,15 +1,12 @@
 # Site navigation links
-- title: Home
+- title: About Me
   url: /
 
-- title: Presentations
-  url: /presentations/
+- title: Bio
+  url: /bio/
 
 - title: CV
   url: /cv/
 
-- title: Blog
-  url: /blog/
-
-- title: Workshops
-  url: /workshops/
+- title: Research
+  url: /reaserch/
