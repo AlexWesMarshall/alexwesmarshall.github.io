@@ -2,12 +2,12 @@
 
 title: About Me
 locale: en_US
-logo: jinx_with_monkey
+logo: #
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Kayla Owens
-  #avatar: bio-photo.jpg
+  avatar: jinx_with_monkey.jpg
   bio: "Best github website ever!"
   email: 
   # Do not include the @ symbol in your Twitter username
