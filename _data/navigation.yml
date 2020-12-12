@@ -1,7 +1,4 @@
 # Site navigation links
-- title: About Me
-  url: /
-
 - title: Bio
   url: /bio/
 
@@ -9,4 +6,4 @@
   url: /cv/
 
 - title: Research
-  url: /reaserch/
+  url: /research/
